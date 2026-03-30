@@ -5,6 +5,8 @@ There's no difference in code nor functionality between the two so I just upload
 
 I'm sure you know about this though and don't really care, though just in case I figured I'd put up a README.
 
+P.S. there's no difference between EX_1-1 and FutureValue zip files and non-zip files, I didn't know if you wanted the zips or just the code so I did both.
+
 
 
 
