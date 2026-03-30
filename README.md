@@ -4,3 +4,8 @@ Exercise 2-1 and 2-2 are basically the same exercise but are different routes fo
 There's no difference in code nor functionality between the two so I just uploaded the one (If you needed multiple, sorry!)
 
 I'm sure you know about this though and don't really care, though just in case I figured I'd put up a README.
+
+
+
+
+Also to everyone who's here out of curiosity, uh, hi. Don't expect this to stay public for long.
